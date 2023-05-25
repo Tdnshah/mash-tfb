@@ -1,0 +1,7 @@
+AuthName "tobaccofreebharat.com statistics"
+AuthType Basic
+AuthUserFile /home/tobaccofreebharat/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+Require all denied
+</Files>

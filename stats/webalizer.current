@@ -1,0 +1,482 @@
+# Webalizer V2.23-08 Incremental Data - 05/25/2023 01:39:31
+2023 5 25 1 39 31
+285 157 77 11 8 36 38384020 106 60 0 0 0
+9 10 131 24 25
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+275 155 38325134 68 103 57 0 0
+10 2 58886 9 3 3 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+10 2 58886 3 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+25 17 58688 12 0 0
+28 11 95146 21 0 0
+131 92 32283271 23 0 0
+28 18 5609905 10 0 0
+0 0 0 0 0 0
+11 2 34635 5 0 0
+4 2 20604 2 0 0
+8 3 42263 6 0 0
+1 0 409 1 0 0
+4 2 31167 3 0 0
+1 0 5665 1 0 0
+2 1 15507 1 0 0
+32 7 127874 18 0 0
+0 0 0 0 0 0
+0
+0
+0
+157
+0
+0
+0
+0
+0
+2
+0
+0
+53
+0
+1
+0
+0
+0
+0
+0
+18
+54
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/2YWslccvAfxCIzQlvERgtZKAREC06wIAEi8N3FSfnak
+0 3 0 882 0 0 0 0
+/src/fonts/Poppins-Bold.ttf
+0 15 0 2338448 0 0 0 0
+/src/assets/petition-details.jpeg
+0 15 0 1282918 0 0 0 0
+/src/fonts/Plein-Variable.ttf
+0 15 0 1407765 0 0 0 0
+/src/assets/logo.svg
+0 15 0 423323 0 0 0 0
+/.well-known/acme-challenge/ekS9uUppbyx7G_Yeb7Rm611rQFcdTi2n_6C89h4k9dY
+0 3 0 882 0 0 0 0
+/.well-known/acme-challenge/uE-RglRbvoARpttDWCaKoHYaCLn8ulocZTaNb8_8bQM
+0 3 0 882 0 0 0 0
+/.well-known/acme-challenge/4SKf2RanQUhhvDXMAcr3aAk6QILzyWUp8oCXwPnPFAQ
+0 3 0 876 0 0 0 0
+/
+0 56 0 490432 59 4 0 0
+/src/assets/Thumbnail-01.png
+1 16 0 32049169 0 0 0 0
+/src/dist/output.css
+0 16 0 94902 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+167.250.111.134
+0 7 6 370874 1 1684930121 0 0
+/
+54.159.92.245
+0 1 0 416 1 1684943141 0 0
+/
+45.139.66.126
+0 2 0 6119 0 0 0 0
+-
+132.255.133.156
+0 2 0 6119 0 0 0 0
+-
+23.178.112.202
+0 1 1 294 0 0 0 0
+-
+194.146.157.61
+0 1 1 9995 1 1684943133 0 0
+/
+47.88.93.234
+0 1 0 5061 0 0 0 0
+-
+178.163.4.70
+0 2 0 6119 0 0 0 0
+-
+34.83.237.202
+0 2 1 7259 1 1684926203 0 0
+/
+133.242.140.127
+0 2 1 10302 1 1684947227 0 0
+/
+34.207.84.42
+0 3 1 10831 1 1684967339 0 0
+/
+64.57.140.206
+0 11 9 3978753 1 1684930092 0 0
+/
+104.233.20.50
+0 1 0 5816 1 1684925643 0 0
+/
+42.236.10.84
+0 2 0 905 1 1684926388 0 0
+/
+82.199.130.38
+0 9 7 2770459 1 1684929982 0 0
+/
+47.251.15.21
+0 1 0 5061 1 1684978754 0 0
+/
+34.254.53.125
+0 28 18 5609905 1 1684936544 0 0
+/
+18.117.150.235
+0 3 3 880 0 0 0 0
+-
+5.180.180.135
+0 1 0 5748 0 0 0 0
+-
+34.105.3.22
+0 2 1 7267 1 1684925828 0 0
+/
+105.154.179.178
+0 1 0 422 1 1684943138 0 0
+/
+167.248.133.37
+0 3 1 21172 2 1684964734 0 0
+/
+47.88.87.97
+0 1 0 5061 0 0 0 0
+-
+23.178.112.208
+0 2 2 586 0 0 0 0
+-
+104.239.42.195
+0 1 1 7476 1 1684925645 0 0
+/
+191.102.155.144
+0 1 0 422 1 1684967338 0 0
+/
+44.236.207.248
+0 2 1 7881 1 1684925894 0 0
+/
+106.198.186.56
+0 2 1 10447 1 1684949952 0 0
+/
+137.184.140.204
+0 2 1 7726 1 1684926144 0 0
+/
+3.95.174.112
+0 2 0 6119 0 0 0 0
+-
+133.242.174.119
+0 2 1 10302 1 1684947227 0 0
+/
+54.244.109.32
+0 3 3 880 0 0 0 0
+-
+167.248.133.124
+0 3 1 15912 1 1684950995 0 0
+/
+34.234.11.9
+0 2 0 6119 0 0 0 0
+-
+51.81.167.146
+0 2 1 12084 1 1684925637 0 0
+/
+191.102.174.172
+0 1 1 7429 1 1684926306 0 0
+/
+58.251.94.154
+0 4 2 13222 1 1684926144 0 0
+/
+54.200.148.118
+0 1 1 294 0 0 0 0
+-
+18.208.155.17
+0 3 1 8265 1 1684926308 0 0
+/
+13.58.239.224
+0 1 1 294 0 0 0 0
+-
+191.102.187.56
+0 1 1 9995 1 1684967337 0 0
+/
+27.115.124.70
+0 1 1 6988 1 1684926501 0 0
+/
+34.79.151.39
+0 1 1 9995 1 1684956412 0 0
+/
+199.244.88.225
+0 1 1 9938 1 1684931816 0 0
+/
+47.254.74.59
+0 2 0 9986 0 0 0 0
+-
+23.228.132.4
+0 9 7 2800346 1 1684929990 0 0
+/
+54.165.95.87
+0 1 0 416 1 1684967339 0 0
+/
+23.178.112.203
+0 1 1 294 0 0 0 0
+-
+45.139.39.107
+0 1 0 184 1 1684967338 0 0
+/
+54.224.152.51
+0 1 0 416 1 1684926308 0 0
+/
+41.98.73.57
+0 1 0 184 1 1684943136 0 0
+/
+165.227.227.95
+0 1 1 7329 1 1684926060 0 0
+/
+136.226.232.250
+0 61 42 14312989 2 1684930304 0 0
+/
+157.119.232.164
+0 2 1 7881 1 1684926388 0 0
+/
+167.248.133.35
+0 1 0 409 1 1684966810 0 0
+/
+44.202.68.241
+0 2 0 6119 0 0 0 0
+-
+162.142.125.14
+0 2 1 15507 1 1684956197 0 0
+/
+42.236.10.75
+0 1 1 6988 1 1684926391 0 0
+/
+34.145.99.191
+0 1 0 465 1 1684925749 0 0
+/
+162.142.125.216
+0 1 0 5665 1 1684958284 0 0
+/
+103.173.195.205
+0 10 7 2770858 1 1684930522 0 0
+/
+89.208.29.195
+0 10 7 2469818 1 1684932411 0 0
+/
+34.224.56.178
+0 1 1 9995 1 1684943141 0 0
+/
+34.83.134.74
+0 1 0 465 1 1684925857 0 0
+/
+193.34.73.30
+0 2 0 606 1 1684926307 0 0
+/
+122.162.150.48
+0 15 10 2808881 3 1684933113 0 0
+/
+107.20.81.2
+0 2 0 1385 0 0 0 0
+-
+167.94.138.124
+0 1 0 409 1 1684953046 0 0
+/
+47.88.94.159
+0 1 0 5061 0 0 0 0
+-
+167.94.138.50
+0 3 1 15904 1 1684949805 0 0
+/
+47.88.86.63
+0 1 1 9301 1 1684978754 0 0
+/
+35.187.166.139
+0 20 5 93379 1 1684966902 0 0
+-
+199.244.88.226
+0 1 0 397 1 1684931815 0 0
+/
+47.88.6.178
+0 1 1 9301 1 1684978754 0 0
+/
+47.88.5.56
+0 1 0 4993 0 0 0 0
+-
+154.92.116.79
+0 1 0 5816 1 1684925643 0 0
+/
+47.88.90.156
+0 1 0 5061 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+47.88.93.234
+0 1 0 5061 0 0 0 0
+-
+47.251.15.21
+0 1 0 5061 1 1684978754 0 0
+/
+47.88.87.97
+0 1 0 5061 0 0 0 0
+-
+47.254.74.59
+0 2 0 9986 0 0 0 0
+-
+47.88.94.159
+0 1 0 5061 0 0 0 0
+-
+47.88.86.63
+0 1 1 9301 1 1684978754 0 0
+/
+47.88.6.178
+0 1 1 9301 1 1684978754 0 0
+/
+47.88.5.56
+0 1 0 4993 0 0 0 0
+-
+47.88.90.156
+0 1 0 5061 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://tobaccofreebharat.com/src/dist/output.css
+0 28
+https://tobaccofreebharat.com/
+0 84
+http://baidu.com/
+0 3
+http://tobaccofreebharat.com
+0 1
+https://www.google.com/
+0 2
+- (Direct Request)
+0 159
+https://www.tobaccofreebharat.com/src/dist/output.css
+0 2
+https://www.tobaccofreebharat.com/
+0 6
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+0 10
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 12
+Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 14
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20130331 Firefox/21.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/91.0.4472.77 Safari/537.36
+0 2
+Python/3.8 aiohttp/3.8.4
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.27+ (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+0 30
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0
+0 19
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.126 Safari/537.36
+0 9
+Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+0 10
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+0 15
+Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/23.0
+0 1
+Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mo
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:52.0) Gecko/20100101 Firefox/52.0
+0 19
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.138 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+0 61
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 16
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.53 Safari/525.19
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.10 Chromium/10.0.642.0 Chrome/10.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+0 9
+Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/109.0.5414.46 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 11; M2004J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+0 10
+Apache-HttpClient/5.1.4 (Java/11.0.18)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/113.0.5672.69 Mobile/15
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
