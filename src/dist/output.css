@@ -768,6 +768,11 @@ strong {
   margin-bottom: 1.5rem;
 }
 
+.my-10 {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
 .mb-1 {
   margin-bottom: 0.25rem;
 }
@@ -790,6 +795,18 @@ strong {
 
 .mt-8 {
   margin-top: 2rem;
+}
+
+.mb-24 {
+  margin-bottom: 6rem;
+}
+
+.mb-36 {
+  margin-bottom: 9rem;
+}
+
+.mb-32 {
+  margin-bottom: 8rem;
 }
 
 .block {
