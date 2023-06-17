@@ -57,3 +57,7 @@ html{
     background: none;
     color: black;
 }
+
+.is-active {
+    border-color: brown;
+}

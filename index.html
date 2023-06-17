@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
   <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/demo.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
   <link href="/src/dist/output.css" rel="stylesheet" type="text/css">
   <title>Tobacco Free Bharat | #TobaccoFreeBharat #</title>
 </head>
@@ -465,11 +466,43 @@
     </div>
 
     <!-- #News & Media Section-->
-    <!-- 
-    <div class="container mx-auto">
+    
+    <div class="container mx-auto my-16">
         <h1>News & Media</h1>
-        <div></div>
-    </div> -->
+        <section class="splide" aria-labelledby="carousel-heading" x-data="{ 'showModal': false, 'imgUrl': '' }" @keydown.escape="showModal = false">
+            <div class="splide__track">
+                  <ul class="splide__list">
+                      <li class="splide__slide border border-black rounded-lg overflow-hidden"><img class="mx-auto object-fill h-80 w-80" src="./src/assets/media/media-1.jpeg" alt="" @click="showModal = true; imgUrl = $event.target.getAttribute('src');"></li>
+                      <li class="splide__slide border border-black rounded-lg overflow-hidden"><img class="mx-auto object-fill h-80 w-80" src="./src/assets/media/media-2.jpeg" alt="" @click="showModal = true; imgUrl = $event.target.getAttribute('src');"></li>
+                      <li class="splide__slide border border-black rounded-lg overflow-hidden"><img class="mx-auto object-fill h-80 w-80" src="./src/assets/media/media-3.png"  alt="" @click="showModal = true; imgUrl = $event.target.getAttribute('src');"></li>
+                      <li class="splide__slide border border-black rounded-lg overflow-hidden"><img class="mx-auto object-fill h-80 w-80" src="./src/assets/media/media-4.jpeg" alt="dainak bhaskar reporting" @click="showModal = true; imgUrl = $event.target.getAttribute('src');"></li>
+                  </ul>
+            </div>
+            <div
+                class="fixed inset-0 z-30 flex items-center justify-center overflow-auto bg-black bg-opacity-50"
+                x-show="showModal"
+            >
+                      <!-- Modal inner -->
+                <div 
+                    class="max-w-3xl px-6 py-4 mx-auto text-left bg-white rounded shadow-lg"
+                    @click.away="showModal = false; console.log(imageUrl)"
+                    x-transition:enter="motion-safe:ease-out duration-300" 
+                    x-transition:enter-start="opacity-0 scale-90" 
+                    x-transition:enter-end="opacity-100 scale-100"
+                >
+                    <!-- Title / Close-->
+                    <div class="flex items-center justify-between">
+                       <img :src="imgUrl" alt="">
+                        <button class="text-black bg-white" type="button" class="z-50 cursor-pointer" @click="showModal = false">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+          </section>
+    </div>
 
     <!--# Footer -->
     <div id="contact_us" class="container mx-auto my-4">
@@ -511,6 +544,7 @@
     </div>
     <script src="https://cdn.plyr.io/3.7.8/demo.js" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/alpinejs/2.8.2/alpine.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
     <script>
         // Burger menus
         document.addEventListener('DOMContentLoaded', function() {
@@ -552,6 +586,29 @@
                 }
             }
         });
+    </script>
+    <script>
+        document.addEventListener( 'DOMContentLoaded', function() {
+            var splide = new Splide( '.splide' ,  {
+                perPage: 3,
+                perMove: 1,
+                rewind : true,
+                gap:100,
+                drag:true,
+                wheel:true,
+                trimSpace: 'move',
+                breakpoints: {
+                    640: {
+                        perPage:1,
+                    },
+                    768:{
+                        perPage:2,
+                    }
+                },
+                } 
+            );
+            splide.mount();
+        } );
     </script>
 </body>
 </html>
