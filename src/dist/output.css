@@ -722,16 +722,16 @@ strong {
   z-index: 50;
 }
 
-.col-span-2 {
-  grid-column: span 2 / span 2;
-}
-
 .row-span-2 {
   grid-row: span 2 / span 2;
 }
 
 .m-10 {
   margin: 2.5rem;
+}
+
+.m-3 {
+  margin: 0.75rem;
 }
 
 .m-auto {
@@ -793,10 +793,6 @@ strong {
   margin-right: 1rem;
 }
 
-.mt-40 {
-  margin-top: 10rem;
-}
-
 .mt-8 {
   margin-top: 2rem;
 }
@@ -819,10 +815,6 @@ strong {
 
 .h-4 {
   height: 1rem;
-}
-
-.h-56 {
-  height: 14rem;
 }
 
 .h-6 {
@@ -865,6 +857,10 @@ strong {
   width: 20rem;
 }
 
+.w-96 {
+  width: 24rem;
+}
+
 .w-\[200px\] {
   width: 200px;
 }
@@ -883,6 +879,12 @@ strong {
 
 .max-w-sm {
   max-width: 24rem;
+}
+
+.border-spacing-4 {
+  --tw-border-spacing-x: 1rem;
+  --tw-border-spacing-y: 1rem;
+  border-spacing: var(--tw-border-spacing-x) var(--tw-border-spacing-y);
 }
 
 .scale-100 {
@@ -921,10 +923,6 @@ strong {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
-.grid-cols-3 {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-}
-
 .flex-col {
   flex-direction: column;
 }
@@ -943,10 +941,6 @@ strong {
 
 .justify-between {
   justify-content: space-between;
-}
-
-.gap-2 {
-  gap: 0.5rem;
 }
 
 .gap-7 {
@@ -989,12 +983,24 @@ strong {
   border-width: 2px;
 }
 
+.border-8 {
+  border-width: 8px;
+}
+
+.border-4 {
+  border-width: 4px;
+}
+
 .border-r {
   border-right-width: 1px;
 }
 
 .border-t-2 {
   border-top-width: 2px;
+}
+
+.border-r-8 {
+  border-right-width: 8px;
 }
 
 .border-black {
@@ -1037,6 +1043,11 @@ strong {
   background-color: rgb(121 88 45 / var(--tw-bg-opacity));
 }
 
+.bg-gray-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+}
+
 .bg-gray-200 {
   --tw-bg-opacity: 1;
   background-color: rgb(229 231 235 / var(--tw-bg-opacity));
@@ -1050,11 +1061,6 @@ strong {
 .bg-red {
   --tw-bg-opacity: 1;
   background-color: rgb(191 31 47 / var(--tw-bg-opacity));
-}
-
-.bg-slate-300 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(203 213 225 / var(--tw-bg-opacity));
 }
 
 .bg-white {
@@ -1120,6 +1126,10 @@ strong {
   padding: 1rem;
 }
 
+.p-5 {
+  padding: 1.25rem;
+}
+
 .px-10 {
   padding-left: 2.5rem;
   padding-right: 2.5rem;
@@ -1148,11 +1158,6 @@ strong {
 .py-10 {
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
-}
-
-.py-16 {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
 }
 
 .py-2 {
@@ -1230,10 +1235,6 @@ strong {
 .text-6xl {
   font-size: 3.75rem;
   line-height: 1;
-}
-
-.text-\[100px\] {
-  font-size: 100px;
 }
 
 .text-base {
@@ -1358,6 +1359,74 @@ html{
   border-color: brown;
 }
 
+.splide__progress__bar {
+  margin-top: 20px;
+  height: 3px;
+  background: red;
+}
+
+/* Gallery */
+
+/* Add padding BETWEEN each column (if you want) */
+
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+/* Create three equal columns that floats next to each other */
+
+.column {
+  float: left;
+  width: 33.33%;
+  display: none;
+  /* Hide columns by default */
+}
+
+/* Clear floats after rows */
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+/* The "show" class is added to the filtered elements */
+
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+/* Add a grey background color on mouse-over */
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+/* Add a dark background color to the active button */
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+
 @keyframes bounce {
   0%, 100% {
     transform: translateY(-25%);
@@ -1392,6 +1461,11 @@ html{
   background-color: rgb(239 246 255 / var(--tw-bg-opacity));
 }
 
+.hover\:bg-red:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(191 31 47 / var(--tw-bg-opacity));
+}
+
 .hover\:bg-white:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
@@ -1410,6 +1484,11 @@ html{
 .hover\:text-red:hover {
   --tw-text-opacity: 1;
   color: rgb(191 31 47 / var(--tw-text-opacity));
+}
+
+.hover\:text-white:hover {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .hover\:underline:hover {
