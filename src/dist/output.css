@@ -710,6 +710,26 @@ strong {
   top: 0px;
 }
 
+.left-9 {
+  left: 2.25rem;
+}
+
+.top-6 {
+  top: 1.5rem;
+}
+
+.right-5 {
+  right: 1.25rem;
+}
+
+.right-4 {
+  right: 1rem;
+}
+
+.top-4 {
+  top: 1rem;
+}
+
 .-z-10 {
   z-index: -10;
 }
@@ -881,12 +901,6 @@ strong {
   max-width: 24rem;
 }
 
-.border-spacing-4 {
-  --tw-border-spacing-x: 1rem;
-  --tw-border-spacing-y: 1rem;
-  border-spacing: var(--tw-border-spacing-x) var(--tw-border-spacing-y);
-}
-
 .scale-100 {
   --tw-scale-x: 1;
   --tw-scale-y: 1;
@@ -983,24 +997,12 @@ strong {
   border-width: 2px;
 }
 
-.border-8 {
-  border-width: 8px;
-}
-
-.border-4 {
-  border-width: 4px;
-}
-
 .border-r {
   border-right-width: 1px;
 }
 
 .border-t-2 {
   border-top-width: 2px;
-}
-
-.border-r-8 {
-  border-right-width: 8px;
 }
 
 .border-black {
@@ -1425,6 +1427,10 @@ html{
 .btn.active {
   background-color: #666;
   color: white;
+}
+
+.hover\:block:hover {
+  display: block;
 }
 
 @keyframes bounce {
